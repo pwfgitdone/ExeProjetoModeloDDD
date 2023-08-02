@@ -1,0 +1,17 @@
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Infra.Data.deps.json
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Infra.Data.runtimeconfig.json
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Domain.dll
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Domain.pdb
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\refint\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.genruntimeconfig.cache
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ref\ProjetoModeloDDD.Infra.Data.dll

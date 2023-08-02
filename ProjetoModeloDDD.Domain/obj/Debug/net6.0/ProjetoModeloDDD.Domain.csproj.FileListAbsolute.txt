@@ -1,0 +1,12 @@
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\net6.0\ProjetoModeloDDD.Domain.deps.json
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\net6.0\ProjetoModeloDDD.Domain.dll
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\net6.0\ProjetoModeloDDD.Domain.pdb
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net6.0\ProjetoModeloDDD.Domain.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net6.0\ProjetoModeloDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net6.0\ProjetoModeloDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net6.0\ProjetoModeloDDD.Domain.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net6.0\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net6.0\ProjetoModeloDDD.Domain.dll
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net6.0\refint\ProjetoModeloDDD.Domain.dll
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net6.0\ProjetoModeloDDD.Domain.pdb
+C:\Users\Samsung\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net6.0\ref\ProjetoModeloDDD.Domain.dll
